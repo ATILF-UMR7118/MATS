@@ -1,0 +1,10 @@
+'s-Gravenhage	Zuid-Holland
+'s-Hertogenbosch	Noord-Brabant
+Arnhem	Gelderland
+Assen	Drenthe
+Haarlem	Noord-Holland
+Leeuwarden	Friesland
+Lelystad	Flevoland
+Maastricht	Limburg
+Middelburg	Zeeland
+Zwolle	Overijssel

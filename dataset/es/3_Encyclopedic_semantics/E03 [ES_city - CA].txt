@@ -1,0 +1,11 @@
+Barcelona	Cataluña
+Logroño	Rioja
+Palma	Baleares
+Mérida	Extremadura
+Oviedo	Asturias
+Pamplona	Navarra
+Santander	Cantabria
+Santiago	Galicia
+Sevilla	Andalucía
+Tenerife	Canarias
+Zaragoza	Aragón

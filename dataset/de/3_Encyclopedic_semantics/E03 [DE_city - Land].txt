@@ -1,0 +1,13 @@
+Dresden	Sachsen
+Düsseldorf	Nordrhein-Westfalen
+Erfurt	Thüringen
+Hannover	Niedersachsen
+Kiel	Schleswig-Holstein
+Magdeburg	Sachsen-Anhalt
+Mainz	Rheinland-Pfalz
+München	Bayern
+Potsdam	Brandenburg
+Saarbrücken	Saarland
+Schwerin	Mecklenburg-Vorpommern
+Stuttgart	Baden-Württemberg
+Wiesbaden	Hessen 

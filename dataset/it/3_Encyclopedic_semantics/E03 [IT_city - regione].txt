@@ -1,0 +1,17 @@
+Ancona	Marche
+Bari	Puglia
+Bologna	Emilia-Romagna
+Cagliari	Sardegna
+Campobasso	Molise
+Catanzaro	Calabria
+Firenze	Toscana
+Genova	Liguria
+L'Aquila	Abruzzo
+Milano	Lombardia
+Napoli	Campania
+Palermo	Sicilia
+Perugia	Umbria
+Potenza	Basilicata
+Roma	Lazio
+Torino	Piemonte
+Venezia	Veneto
