@@ -8,8 +8,8 @@ This repository also contains the scripts used in our experiments. They are main
 
 ## Cite this paper
 
-This section will be updated once the *SEM 2023 proceedings are available. 
-In the meantime, you can find a copy of the camera-ready version of our paper under `docs/mickus-etal-2023-MATS.pdf`.
+You can find the original paper at this [link](https://aclanthology.org/2023.starsem-1.25/).
+A copy of the camera-ready version of our paper is also available under `docs/mickus-etal-2023-MATS.pdf`.
 
 If you used this resource in your work, please cite our paper:
 ```
