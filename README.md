@@ -13,5 +13,20 @@ In the meantime, you can find a copy of the camera-ready version of our paper un
 
 If you used this resource in your work, please cite our paper:
 ```
-I'll add a citation once I have one!
+@inproceedings{mickus-etal-2023-mann,
+    title = "{M}ann is to Donna as 「国王」 is to Reine: Adapting the Analogy Task for Multilingual and Contextual Embeddings",
+    author = "Mickus, Timothee  and
+      Cal, Eduardo  and
+      Jacqmin, Lo  and
+      Paperno, Denis  and
+      Constant, Mathieu",
+    booktitle = "Proceedings of the The 12th Joint Conference on Lexical and Computational Semantics (*SEM 2023)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.starsem-1.25",
+    pages = "270--283",
+    abstract = "How does the word analogy task fit in the modern NLP landscape? Given the rarity of comparable multilingual benchmarks and the lack of a consensual evaluation protocol for contextual models, this remains an open question. In this paper, we introduce MATS: a multilingual analogy dataset, covering forty analogical relations in six languages, and evaluate human as well as static and contextual embedding performances on the task. We find that not all analogical relations are equally straightforward for humans, static models remain competitive with contextual embeddings, and optimal settings vary across languages and analogical relations. Several key challenges remain, including creating benchmarks that align with human reasoning and understanding what drives differences across methodologies.",
+}
 ```
