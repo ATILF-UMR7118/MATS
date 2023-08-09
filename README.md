@@ -16,8 +16,8 @@ If you used this resource in your work, please cite our paper:
 @inproceedings{mickus-etal-2023-mann,
     title = "{M}ann is to Donna as 「国王」 is to Reine: Adapting the Analogy Task for Multilingual and Contextual Embeddings",
     author = "Mickus, Timothee  and
-      Cal, Eduardo  and
-      Jacqmin, Lo  and
+      Calò, Eduardo  and
+      Jacqmin, Léo  and
       Paperno, Denis  and
       Constant, Mathieu",
     booktitle = "Proceedings of the The 12th Joint Conference on Lexical and Computational Semantics (*SEM 2023)",
