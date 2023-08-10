@@ -14,13 +14,13 @@ A copy of the camera-ready version of our paper is also available under `docs/mi
 If you used this resource in your work, please cite our paper:
 ```
 @inproceedings{mickus-etal-2023-mann,
-    title = "{M}ann is to Donna as 「国王」 is to Reine: Adapting the Analogy Task for Multilingual and Contextual Embeddings",
+    title = "„Mann{``} is to {``}Donna{''} as「国王」is to « Reine » Adapting the Analogy Task for Multilingual and Contextual Embeddings",
     author = "Mickus, Timothee  and
-      Calò, Eduardo  and
-      Jacqmin, Léo  and
+      Cal{\`o}, Eduardo  and
+      Jacqmin, L{\'e}o  and
       Paperno, Denis  and
       Constant, Mathieu",
-    booktitle = "Proceedings of the The 12th Joint Conference on Lexical and Computational Semantics (*SEM 2023)",
+    booktitle = "Proceedings of the 12th Joint Conference on Lexical and Computational Semantics (*SEM 2023)",
     month = jul,
     year = "2023",
     address = "Toronto, Canada",
